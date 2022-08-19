@@ -32,7 +32,7 @@ div:nth-child(5) > p {
   background: yellow;
 }
 body > div:nth-of-type(3) > p:nth-of-type(2) {
-  border: 5px white;
+  border: 5px solid white;
 }
 em {
   color: white;
